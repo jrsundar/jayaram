@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 love
 failure
 succes
+=======
+i love mom
+i love fatherpr
+i love grandfather
+>>>>>>> prd
+
+
+
 
